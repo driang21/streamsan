@@ -34,7 +34,7 @@
         </div>
     <div class="container"> <div class="video row"> <div class="video-screen">
         <div class="overlay-video"></div>
-        <div class="percent-container"><p><img class="loader" src="https://ug.vloxyze.xyz/index/img/video-throbber.gif" alt=""></p><p class="percent"></p></div>
+        <div class="percent-container"><p><img class="loader" src="/index/img/video-throbber.gif" alt=""></p><p class="percent"></p></div>
         <div class="popup-time"><p>Starts in <span id="countdown">00:11</span></p></div>
         <div class="popup-container"><div class="popup-text">High School Sports Live 2022 Is Only Available For Registered Users. Create A FREE Account To Get Access Your HD Streams</div>
     <a href="https://ug.vloxyze.xyz/register.php" class="x-domain"><div class="popup-button">Create my account</div></a></div></div><div class="controls"><div class="small-1 medium-1 large-1 no-col-hd-pad columns pause-play"><i class="icon-play"></i><a href="https://ug.vloxyze.xyz/register.php" class="x-domain"><i class="icon-pause"></i></a></div>
@@ -72,7 +72,16 @@ function googleTranslateElementInit() {
 <footer align="center" class="col-md-12" style="background:black;padding: 20px;color: white;font-weight: bolder;text-shadow: 0px  0px 1px rgb(0, 0, 0);">
 <a data-toggle="modal" data-target="#myDMCA" <a href="https://ug.vloxyze.xyz/">Home</a> • <a data-toggle="modal <a data-toggle="modal" data-target="#myDMCA" href="https://ug.vloxyze.xyz/register.php">DMCA</a> • <a data-toggle="modal" data-target="#myContact" href="https://ug.vloxyze.xyz/register.php">Contact</a>
 <div class="col-sm-6"><p>Copyright &copy; 2022 - All Rights Reserved</p></div></footer></div></div>
-<script type="text/javascript">var _Hasync=_Hasync||[];_Hasync.push(['Histats.start','1,4568447,4,0,0,0,00010000']);_Hasync.push(['Histats.fasi','1']);_Hasync.push(['Histats.track_hits','']);(function(){var hs=document.createElement('script');hs.type='text/javascript';hs.async=true;hs.src=('http://s10.histats.com/js15_as.js');(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(hs);})();</script> <noscript><a href="https://ug.vloxyze.xyz/" target="_blank"><img src="http://sstatic1.histats.com/0.gif?4568447&amp;101" alt="web site hit counter" border="0"></a></noscript><style>
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4619748,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script><noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4619748&101" alt="free web tracker" border="0"></a></noscript>
+<style>
 	.online{color:#fff; font-size: 12px;position:fixed; bottom: 0;right:0; background:rgba(0,0,0,0.5);  width:190px; padding:10px; border-radius:5px 0 0 0;  }
 	.online-icon{display: inline-block; background: url('https://ug.vloxyze.xyz/') no-repeat; width:14px; height:20px;}
 	.online-text{
